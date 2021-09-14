@@ -12,5 +12,7 @@ class Person {
     func hi()  {
         print("hi")
         SVProgressHUD.show(withStatus: "hi!!!")
+        
+        SVProgressHUD.dismiss(withDelay: 2)
     }
 }
