@@ -1,6 +1,6 @@
 
 public struct swiftPackageTest {
-    var text = "Hello, World!"
+    var text = "Hello, World1!"
     let person = Person.init()
     
     public func sayHi() {
