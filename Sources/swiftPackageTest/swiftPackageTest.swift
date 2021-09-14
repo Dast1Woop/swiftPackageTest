@@ -11,5 +11,5 @@ public struct swiftPackageTest {
         return num1 + num2
     }
     
-    public init()
+    public init(){}
 }
